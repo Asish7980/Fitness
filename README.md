@@ -18,44 +18,37 @@
 ## 📸 Screenshots
 
 ### 🧭 Header
-![header](screenshots/header.png)
+
+![Header](screenshots/Header.png)
 
 ###  Body
+
 ![Body](screenshots/body.png)
 
 ## 📂 Folder Structure
-
+```
 Fitness_with_Asish/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── images/
 └── screenshots/
-
-bash
-Copy code
+```
 
 ## 💡 How to Use
 
 1. Clone the repository:
-   ```bash
+```
    git clone https://github.com/Asish7980/Fitness_with_Asish.git
+```
 Open index.html in your browser.
 
-🤝 Contributing
+# 🤝 Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
-📄 License
+# 📄 License
+
 This project is licensed under the MIT License.
 
-🔗 Live Preview (Optional)
-yaml
-Copy code
-
----
-
-### ✅ Instructions for Screenshots
-
-Place your screenshots at:
-Fitness_with_Asish/screenshots/screenshot1.png
-Fitness_with_Asish/screenshots/screenshot2.png
+# by ASISH
