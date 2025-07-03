@@ -17,11 +17,11 @@
 
 ## 📸 Screenshots
 
-### 🖼️ Homepage View
-![Homepage](screenshots/screenshot1.png)
+### 🧭 Header
+![header](screenshots/header.png)
 
-### 📱 Mobile Responsive View
-![Responsive](screenshots/screenshot2.png)
+###  Body
+![Body](screenshots/body.png)
 
 ## 📂 Folder Structure
 
